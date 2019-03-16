@@ -13,5 +13,5 @@
   * 계란
   * 소금
   
-<img src="https://github.com/zeran4/markdown/blob/master/a000066_featured_4.jpg" width="30%">
+<img src="https://./a000066_featured_4.jpg" width="30%">
   
