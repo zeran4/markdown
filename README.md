@@ -14,5 +14,5 @@
   * 계란
   * 소금
   
-<img src="https://./a000066_featured_4.jpg" width="30%">
+<img src="./a000066_featured_4.jpg" width="30%">
   
