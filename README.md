@@ -16,3 +16,5 @@
   
 <img src="./a000066_featured_4.jpg" width="30%">
   
+## markdown만 있어서 심심해 보여, euler 구하는 수식을 
+<img src="./euler1.png" width="100%">
